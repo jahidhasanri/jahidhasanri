@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300" src="https://i.ibb.co.com/y5zzhVz/coverimg.png"  />
+  <img height="300" src="https://i.ibb.co/y5zzhVz/coverimg.png"  />
 </p>
 
 ###
@@ -93,5 +93,3 @@
 ###
 
 <p align="left">📫 Email: jahadhasanrifat@gmail.com<br>📱 WhatsApp: 01731847198<br>🌐 Portfolio: https://melodic-puppy-190629.netlify.app</p>
-
-###
