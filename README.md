@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! 🚀 I'm a Computer Science and Engineering (CSE) student at BUBT, currently in my 4th semester. Passionate about programming, problem-solving, and web development, I enjoy creating innovative and user-friendly applications.</p>
+<p align="left">Welcome to my GitHub profile! 🚀 I'm a passionate Computer Science and Engineering (CSE) student at BUBT, currently in my 4th semester. I thrive on problem-solving and building user-friendly applications with cutting-edge technologies. I enjoy creating innovative solutions, and I'm always excited to learn new skills..</p>
 
 ###
 
