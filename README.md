@@ -62,14 +62,6 @@
 
 ###
 
-<h3 align="left">🌱 Current Projects</h3>
-
-###
-
-<p align="left">. EquiSports:<br> An e-commerce platform for sports enthusiasts to browse, purchase, and manage sports equipment<br><br>. Career Counseling:<br>A platform providing career guidance and tools like resume writing to help users achieve their goals</p>
-
-###
-
 <p align="left">💡 Previous Projects:</p>
 
 ###
