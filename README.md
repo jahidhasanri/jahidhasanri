@@ -8,6 +8,10 @@
 
 ###
 
+<h2 align="left">MERN Stack Developer</h2>
+
+###
+
 <p align="left">Welcome to my GitHub profile! 🚀 I'm a Computer Science and Engineering (CSE) student at BUBT, currently in my 4th semester. Passionate about programming, problem-solving, and web development, I enjoy creating innovative and user-friendly applications.</p>
 
 ###
