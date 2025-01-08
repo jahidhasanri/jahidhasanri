@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2023<br><br>📚 I'm currently learning:<br>. Advanced React.js concepts<br>. Backend development with Node.js and Express<br>. Optimizing APIs and database management<br><br>🎯 Goals:<br>. Build a scalable full-stack application.<br>. Contribute to impactful open-source projects.<br><br>🎲 Fun fact:<br>I can spend hours debugging code but still forget to save my file before running it! 😅<br>I'm a night owl 🦉 when it comes to coding.</p>
+<p align="left">✨ Creating bugs since: 2023<br><br>📚 I'm currently learning:<br>. Advanced React.js concepts<br>. Backend development with Node.js and Express<br>. Optimizing APIs and database management<br><br>🎯 Goals:<br>. Build a scalable full-stack application.<br>. Contribute to impactful open-source projects.<br><br>🎲 Fun fact:<br>I can spend hours debugging code but still forget to save my file before running it! 😅I'm a night owl 🦉 when it comes to coding.</p>
 
 ###
 
