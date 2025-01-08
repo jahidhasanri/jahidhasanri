@@ -1,5 +1,5 @@
 <div align="center">
-  ![Your paragraph text](https://github.com/user-attachments/assets/9ddca71c-6832-429a-ad27-c7516c5c6a65)
+ https://github.com/user-attachments/assets/9ddca71c-6832-429a-ad27-c7516c5c6a65
 </div>
 
 ###
