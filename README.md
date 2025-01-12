@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Web Developer</h2>
+<h2 align="left">MERN Stack Developer</h2>
 
 ###
 
