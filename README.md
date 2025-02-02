@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/1JQ30H3B/Jahdi.png" alt="Image description" />
+  <img src="https://i.ibb.co.com/60mqLXRK/Jahdi-1.png" alt="Image description" />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Fornt-end Developer</h2>
+<h2 align="left">Front-end Developer</h2>
 
 ###
 
