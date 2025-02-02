@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">MERN Stack Developer</h2>
+<h2 align="left">Fornt-end Developer</h2>
 
 ###
 
