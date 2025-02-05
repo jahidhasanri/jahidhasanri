@@ -85,6 +85,6 @@
 
 ###
 
-<p align="left">📫 Email: jahadhasanrifat@gmail.com<br>📱 WhatsApp: 01731847198<br>🌐 Portfolio: https://melodic-puppy-190629.netlify.app</p>
+<p align="left">📫 Email: jahadhasanrifat@gmail.com<br>📱 WhatsApp: 01731847198<br>🌐 Portfolio: https://jahid-hasan-rifat-protfolio.netlify.app/</p>
 
 ###
