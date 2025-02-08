@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/RpPhLQ2W/Jahdi.png" alt="Image description" />
+  <img src="https://i.ibb.co.com/zHFQNMbp/rifat-mern-canva-pic.png" alt="Image description" />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Front-end Developer</h2>
+<h2 align="left">MERN Stack Developer</h2>
 
 ###
 
